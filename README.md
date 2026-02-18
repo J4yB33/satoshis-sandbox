@@ -20,16 +20,16 @@ It leverages redundant API layers to ensure your **GBP (£)** and **USD ($)** va
 
 ## 📸 Screenshots
 ### Initial Page 
-<img width="775" height="383" alt="Initial Dashboard" src="https://github.com/user-attachments/assets/0bd3fac2-92f2-4d39-bf26-6c24c4bd396b" />
+<img width="745" height="390" alt="image" src="https://github.com/user-attachments/assets/b2b30053-a51b-475c-99c8-7b81aa7c3ec0" />
 
 ### Live Tracking State
-<img width="783" height="861" alt="Live Data View" src="https://github.com/user-attachments/assets/02c70acf-e8ad-4035-bc4a-b61a86aae3c1" />
+<img width="783" height="861" alt="image" src="https://github.com/user-attachments/assets/021e7f31-19ad-427d-b504-f8244a04c9c9" />
 
 ## 🛠️ Usage Options
 
 ### Option 1: Google Colab (Cloud)
 1. Click the **Open In Colab** badge at the top of this README.
-2. Run the notebook cells to install dependencies and initialize the secure tunnel.
+2. Run the notebook cells to install dependencies and initialise the secure tunnel.
 3. Access your dashboard via the generated public URL.
 
 ### Option 2: Local Installation
